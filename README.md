@@ -12,6 +12,7 @@
 
 📚 Sobre mí:
 > Estudiante, futuro ingeniero en informatica, Desarrollador de applicaciones web (Nuxtjs, Laravel, JavaScript, React, Python, PHP).
+
 💡 Conocimientos:
 
 >  Conocedor en el desarrollo de soluciones de software con tecnologías web y nativas, desde la etapa inicial hasta la final.
