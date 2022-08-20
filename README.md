@@ -41,10 +41,10 @@
           
 
 
->Other skills: Figma, Trello, git & GitHub, Cloud solutions on IBM and Huawei Cloud. 
+>Otras habilidades: Figma, Trello, git y GitHub, soluciones en la nube en IBM. 
 ##
-- 🛠 Wornking on freelance proyects and building programming communities.
-- 📚 Learning web technologies based in JS.
+- 🛠 Trabajando en proyectos freelance y construyendo comunidades de programación.
+- 📚 Aprendizaje de tecnologías web basadas en JS.
 
 
 ##
@@ -52,7 +52,7 @@
 
  
 
-![Parra's GitHub stats](https://github-readme-stats.vercel.app/api?username=1001-caleb&show_icons=true&theme=dark)
+![Cristoba'l GitHub stats](https://github-readme-stats.vercel.app/api?username=zk1-ops&show_icons=true&theme=dark)
 
 
-![Profile views](https://gpvc.arturio.dev/1001-caleb)  
+![Vista de perfil](https://gpvc.arturio.dev/zk1-ops)  
