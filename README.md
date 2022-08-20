@@ -11,8 +11,8 @@
 
 
 📚 Sobre mí:
-> Estudiante, Desarrollador de aplicaciones web (NuxtJS) como front-end.
-> Back-end con (NodeJS, Python y Laravel).
+> Estudiante, Desarrollador de aplicaciones web (NuxtJS) como front-end y 
+> back-end con (NodeJS, Python y Laravel).
 
 💡 Conocimientos:
 
