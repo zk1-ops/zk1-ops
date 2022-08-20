@@ -18,7 +18,7 @@
 >  Conocedor en el desarrollo de soluciones de software con tecnologías web y nativas, desde la etapa inicial hasta la final.
 >  Liderazgo de proyectos (metodologías ágiles), UX/UI, desarrollo web, desarrollo de API's, manejo de bases de datos, despliegue en la nube.
 
-🧠 Skills:  
+🧠 Habilidades:  
 
 >Habilidades: 
 
