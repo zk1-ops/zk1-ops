@@ -11,13 +11,11 @@
 
 
 📚 Sobre mí:
-> Estudiante, Desarrollador de aplicaciones web (NuxtJS) como front-end y 
-> back-end con (NodeJS, Python y Laravel).
+> Estudiante, Desarrollador de aplicaciones web (NuxtJS) como front-end y back-end con (NodeJS y Laravel).
 
 💡 Conocimientos:
 
 >  Conocedor en el desarrollo de soluciones de software con tecnologías web y nativas, desde la etapa inicial hasta la final.
-
 >  Liderazgo de proyectos (metodologías ágiles), UX/UI, desarrollo web, desarrollo de API's, manejo de bases de datos, despliegue en la nube.
 
 🧠 Habilidades:  
@@ -46,7 +44,7 @@
 >Otras habilidades: git y GitHub. 
 ##
 - 🛠 Construyendo nuevos proyectos, para aplicar lo aprendido.
-- 📚 Aprendizaje de tecnologías web basadas en JS y Laravel.
+- 📚 Aprendizaje de tecnologías web basadas en NodeJS y Laravel.
 
 
 ##
